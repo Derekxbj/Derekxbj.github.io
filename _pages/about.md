@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 🎖 Honors and Awards
 - *2023.01* 2022 Collins Distinguished Doctoral Fellowship at the GWU. 
-- *2022.04* 2022 GW Technology Commercialization Innovation Competition [Audience’s choice posters Prize](https://commercialization.gwu.edu/tco-innovation-competition). 
+- *2022.04* 2022 GW Technology Commercialization Innovation Competition ([Audience’s choice posters Prize](https://commercialization.gwu.edu/tco-innovation-competition)). 
 - *2022.01* 2021 Collins Distinguished Doctoral Fellowship at the GWU. 
 - *2016.05* 2016 A Hundred Excellent Final Year Theses Prize in Shenzhen University . 
 - *2015.09* 2015 Shenzhen University Challenge Cup University Student Venture Contest (2nd Prize). 
@@ -69,9 +69,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington DC, U.S.A. 
 - *2012.09 - 2016.06*, Bachelor of Engineering, Shenzhen University, Guandong, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Invited Talks and Presentations
+## Oral
+- *2023.10*, 2023 IEEE/CVF International Conference on Computer Vision (ICCV) Workshops at Paris, France
+- *2022.11*, 2022 BME Day in the Department of Biomedical Engineering at the GWU.  
+- *2021.11*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](youtube.com/watch?v=JDMb7vyxoqM&ab_channel=ArtmedGWU)
+- *2020.04*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](https://www.youtube.com/watch?v=gV5mkpEhnVk&ab_channel=ACMSIGCHI)
+
+
+## Poster
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
