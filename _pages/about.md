@@ -70,11 +70,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2012.09 - 2016.06*, Bachelor of Engineering, Shenzhen University, Guandong, China. 
 
 # 💬 Invited Talks and Presentations
+
 ## Oral
 - *2023.10*, 2023 IEEE/CVF International Conference on Computer Vision (ICCV) Workshops at Paris, France
 - *2022.11*, 2022 BME Day in the Department of Biomedical Engineering at the GWU.  
 - *2021.11*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](youtube.com/watch?v=JDMb7vyxoqM&ab_channel=ArtmedGWU)
-- *2020.04*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](https://www.youtube.com/watch?v=gV5mkpEhnVk&ab_channel=ACMSIGCHI)
+- *2020.04*, 2020 ACM/IEEE International Conference on Human-Robot Interaction \| [\[video\]](https://www.youtube.com/watch?v=gV5mkpEhnVk&ab_channel=ACMSIGCHI)
 
 ## Poster
 - *2023.04*, 2023 GW SEAS R&D Showcase at the GWU
@@ -88,5 +89,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
