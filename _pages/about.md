@@ -19,12 +19,11 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉🎉 I have pased my PhD dissertation defense!
+
 
 # 📝 Publications 
 
@@ -40,9 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> -->
 
-- `ICCV 2023` [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision*
+- ``ICCV 2023`` [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision*
 
-- `HRI 2023` [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), Baijun Xie, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
+- ``HRI 2023`` [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), Baijun Xie, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
 - [Trainable Quaternion Extended Kalman Filter with Multi-Head Attention for Dead Reckoning in Autonomous Ground Vehicles](https://www.mdpi.com/1424-8220/22/20/7701), Gary Milam, Baijun Xie, Runnan Liu, Xiaoheng Zhu, Juyoun Park, Gonwoo Kim, Chung Hyuk Park, *Sensors*
 
@@ -50,9 +49,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Robust Multimodal Emotion Recognition from Conversation with Transformer-Based Crossmodality Fusion](https://www.mdpi.com/1424-8220/21/14/4913), Baijun Xie, Mariia Sidulova, Chung Hyuk Park, *Sensors*
 
-- `UR 2021` [Empathetic Robot With Transformer-Based Dialogue Agent](https://ieeexplore.ieee.org/abstract/document/9494669), Baijun Xie, Chung Hyuk Park, *2021 18th International Conference on Ubiquitous Robots (UR)*
+- ``UR 2021`` [Empathetic Robot With Transformer-Based Dialogue Agent](https://ieeexplore.ieee.org/abstract/document/9494669), Baijun Xie, Chung Hyuk Park, *2021 18th International Conference on Ubiquitous Robots (UR)*
 
-- `HRI 2020` [Dance with a Robot: Encoder-Decoder Neural Network for Music-Dance Learning](https://dl.acm.org/doi/abs/10.1145/3371382.3378372), Baijun Xie, Chung Hyuk Park, *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*
+- ``HRI 2020`` [Dance with a Robot: Encoder-Decoder Neural Network for Music-Dance Learning](https://dl.acm.org/doi/abs/10.1145/3371382.3378372), Baijun Xie, Chung Hyuk Park, *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*
 
 - [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
 
