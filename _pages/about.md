@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington DC, U.S.A. 
 - *2012.09 - 2016.06*, Bachelor of Engineering, Shenzhen University, Guandong, China. 
 
-# 💬 Invited Talks and Presentations
+# 💬 Invited Talks
 ## Oral
 - *2023.10*, 2023 IEEE/CVF International Conference on Computer Vision (ICCV) Workshops at Paris, France
 - *2022.11*, 2022 BME Day in the Department of Biomedical Engineering at the GWU.  
