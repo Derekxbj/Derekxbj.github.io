@@ -56,8 +56,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.01* 2022 Collins Distinguished Doctoral Fellowship at the GWU. 
+- *2022.04* 2022 GW Technology Commercialization Innovation Competition [Audience’s choice posters Prize](https://commercialization.gwu.edu/tco-innovation-competition). 
+- *2022.01* 2021 Collins Distinguished Doctoral Fellowship at the GWU. 
+- *2016.05* 2016 A Hundred Excellent Final Year Theses Prize in Shenzhen University . 
+- *2015.09* 2015 Shenzhen University Challenge Cup University Student Venture Contest (2nd Prize). 
+- *2014.09* Laboratory Open Fund Project of Shenzhen University (3rd Prize). 
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
