@@ -76,8 +76,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 - *2021.11*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](youtube.com/watch?v=JDMb7vyxoqM&ab_channel=ArtmedGWU)
 - *2020.04*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](https://www.youtube.com/watch?v=gV5mkpEhnVk&ab_channel=ACMSIGCHI)
 
-
 ## Poster
+- *2023.04*, 2023 GW SEAS R&D Showcase at the GWU
+- *2023.03*, 2023 ACM/IEEE International Conference on Human-Robot Interaction at Stockholm, SE 
+- *2022.05*, 2022 GW Technology Commercialization Innovation Competition at the GWU
+- *2021.07*, 2021 18th International Conference on Ubiquitous Robots (online)
+- *2019.10*, 2019 Biomedical Engineering Society (BMES) Annual Meeting at Philadelphia
+- *2019.10*, 2019 Research and Development Showcase at the GWU
+- *2019.04*, 2019 Research Day at the GWU
+- *2018.02*, 2018 GW SEAS R&D Showcase at the GWU
+
+
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
