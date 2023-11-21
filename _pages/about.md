@@ -71,13 +71,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 💬 Invited Talks and Presentations
 
-## Oral
+Oral
 - *2023.10*, 2023 IEEE/CVF International Conference on Computer Vision (ICCV) Workshops at Paris, France
 - *2022.11*, 2022 BME Day in the Department of Biomedical Engineering at the GWU.  
 - *2021.11*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](youtube.com/watch?v=JDMb7vyxoqM&ab_channel=ArtmedGWU)
 - *2020.04*, 2020 ACM/IEEE International Conference on Human-Robot Interaction \| [\[video\]](https://www.youtube.com/watch?v=gV5mkpEhnVk&ab_channel=ACMSIGCHI)
 
-## Poster
+Poster
 - *2023.04*, 2023 GW SEAS R&D Showcase at the GWU
 - *2023.03*, 2023 ACM/IEEE International Conference on Human-Robot Interaction at Stockholm, SE 
 - *2022.05*, 2022 GW Technology Commercialization Innovation Competition at the GWU
