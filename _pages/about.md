@@ -39,7 +39,10 @@ I am researcher
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAREER</div><img src='images/nsf_project.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'>
+
+
+<div class='paper-box-image'><div><div class="badge">CAREER</div><img src='images/nsf_project.png' alt="sym" width="120%"></div></div>
 
 
 
@@ -52,7 +55,7 @@ I am researcher
 </div>
 
 <!-- Publications -->
-<div class='publications' markdown="1">
+<div>
 
 
 ``HRI 2023`` [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), Baijun Xie, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
@@ -65,8 +68,8 @@ I am researcher
 
 [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
 
-
 </div>
+
 </div>
 
 
