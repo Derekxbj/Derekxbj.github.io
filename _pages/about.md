@@ -47,7 +47,6 @@ I am researcher
 - The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
 
 </div>
-</div>
 
 - ``HRI 2023`` [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), Baijun Xie, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
@@ -60,7 +59,8 @@ I am researcher
 - [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
 
 </div>
-</div>
+
+
 
 
 - ``ICCV 2023`` [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision*
