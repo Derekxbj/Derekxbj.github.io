@@ -39,12 +39,14 @@ I am researcher
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XCurve</div><img src='images/nsf_project.png' alt="sym" width="120%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAREER</div><img src='images/nsf_project.png' alt="sym" width="120%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *2019.03 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html). 
 
 - The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, this project will develop a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
+
+</div>
 
 - ``HRI 2023`` [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), Baijun Xie, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
