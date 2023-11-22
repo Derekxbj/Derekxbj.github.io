@@ -66,6 +66,11 @@
         max-width: 100%;
         order: 1;
     }
+
+    .publications{
+        max-width: 100%;
+        order: 1;
+    }
     
     @include breakpoint($medium) {
         .paper-box-image{
