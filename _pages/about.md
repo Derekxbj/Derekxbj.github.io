@@ -47,7 +47,7 @@ I am researcher
 
 - The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
 
-</div>
+
 
 <!-- Publications -->
 <div class='publications' markdown="1">
@@ -64,6 +64,7 @@ I am researcher
 [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
 
 
+</div>
 </div>
 </div>
 
