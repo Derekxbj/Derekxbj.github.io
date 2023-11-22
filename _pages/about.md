@@ -46,21 +46,20 @@ I am researcher
 
 - The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
 
+
+``HRI 2023`` [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), Baijun Xie, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
+
+[Robust Multimodal Emotion Recognition from Conversation with Transformer-Based Crossmodality Fusion](https://www.mdpi.com/1424-8220/21/14/4913), Baijun Xie, Mariia Sidulova, Chung Hyuk Park, *Sensors*
+
+``UR 2021`` [Empathetic Robot With Transformer-Based Dialogue Agent](https://ieeexplore.ieee.org/abstract/document/9494669), Baijun Xie, Chung Hyuk Park, *2021 18th International Conference on Ubiquitous Robots (UR)*
+
+``HRI 2020`` [Dance with a Robot: Encoder-Decoder Neural Network for Music-Dance Learning](https://dl.acm.org/doi/abs/10.1145/3371382.3378372), Baijun Xie, Chung Hyuk Park, *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*
+
+[Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
+
+
 </div>
 </div>
-
-- ``HRI 2023`` [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), Baijun Xie, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
-
-- [Robust Multimodal Emotion Recognition from Conversation with Transformer-Based Crossmodality Fusion](https://www.mdpi.com/1424-8220/21/14/4913), Baijun Xie, Mariia Sidulova, Chung Hyuk Park, *Sensors*
-
-- ``UR 2021`` [Empathetic Robot With Transformer-Based Dialogue Agent](https://ieeexplore.ieee.org/abstract/document/9494669), Baijun Xie, Chung Hyuk Park, *2021 18th International Conference on Ubiquitous Robots (UR)*
-
-- ``HRI 2020`` [Dance with a Robot: Encoder-Decoder Neural Network for Music-Dance Learning](https://dl.acm.org/doi/abs/10.1145/3371382.3378372), Baijun Xie, Chung Hyuk Park, *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*
-
-- [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
-
-
-
 
 
 
