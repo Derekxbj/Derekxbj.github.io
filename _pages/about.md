@@ -41,13 +41,6 @@ I am researcher
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAREER</div><img src='images/nsf_project.png' alt="sym" width="120%"></div></div>
 
-<div class='paper-box-text' markdown="1">
-
-*2019.03 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html). 
-
-- The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
-
-
 
 <!-- Publications -->
 <div class='publications' markdown="1">
@@ -65,7 +58,16 @@ I am researcher
 
 
 </div>
+
+<div class='paper-box-text' markdown="1">
+
+*2019.03 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html). 
+
+- The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
+
 </div>
+
+
 </div>
 
 
