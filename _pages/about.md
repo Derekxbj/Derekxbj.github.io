@@ -65,9 +65,34 @@ I am researcher
 
 [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), Baijun Xie, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
 
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">CAREER</div><img src='images/nerve_project.jpg' alt="sym" width="120%"></div></div>
+
+
+<div class='paper-box-text' markdown="1">
+
+*2019.03 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [Real-Time Nerve Tissue Detection and Visualization](http://www.chunghyukpark.com/real-time-nerve-tissue-detection-and-visualization.html. 
+
+- We proposed the usage of birefringence images with deep learning inference to help with the detection of nerves. The study findings showed that leveraging birefringence images outperforms its RGB counterpart for nerve detection and segmentation. Additionally, introducing the crossattention module on a single modality network improved the detection and segmentation of nerve structures on the birefringence images.
+
+</div>
+
+<!-- Publications -->
+<div class='publications' markdown="1">
+
+- [DXM‐TransFuse U-net: Dual cross-modal transformer fusion U-net for automated nerve identification](https://www.sciencedirect.com/science/article/pii/S0895611122000635), Baijun Xie, Gary Milam, Bo Ning, Jaepyeong Cha, Chung Hyuk Park, *Computerized Medical Imaging and Graphics*
+
+- "Patent" Real Time Automated Nerve Identification System.” International Publication No. WO2023/183930, Gary Milam, Baijun Xie, Chung Hyuk Park
 
 </div>
 </div>
+
+
+
 
 
 
@@ -77,7 +102,7 @@ I am researcher
 
 - [Trainable Quaternion Extended Kalman Filter with Multi-Head Attention for Dead Reckoning in Autonomous Ground Vehicles](https://www.mdpi.com/1424-8220/22/20/7701), Gary Milam, Baijun Xie, Runnan Liu, Xiaoheng Zhu, Juyoun Park, Gonwoo Kim, Chung Hyuk Park, *Sensors*
 
-- [DXM‐TransFuse U-net: Dual cross-modal transformer fusion U-net for automated nerve identification](https://www.sciencedirect.com/science/article/pii/S0895611122000635), Baijun Xie, Gary Milam, Bo Ning, Jaepyeong Cha, Chung Hyuk Park, *Computerized Medical Imaging and Graphics*
+
 
 
 
