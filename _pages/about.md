@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am researcher 
+Currently, I take the position of research assistant at the George Washington University. I am scheduled to be conferred with a Doctor of Philosophy degree by the end of the year 2023.
+
+My research interests are in the intersection of machine learning and human-robot interaction (HRI). From a methodological perspective, the objective of my work is to utilize machine learning algorithms together with emotional intelligence to facilitate the creation of more engaging and empathetic experiences in HRI. Throughout the duration of my doctoral research, the robotic system that I have developed has successfully attained the capability of engaging in interactive emotional communication by utilizing both verbal and non-verbal social cues. Additionally, I had the task of designing and assessing a social-emotional robot that incorporated an interactive gaming scenario. In addition, a user study is conducted on the empathetic robotic companion that has been designed specifically for autistic adolescents, along with a personalized intervention program.
+
+
 
 
 
