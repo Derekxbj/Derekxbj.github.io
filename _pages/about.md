@@ -170,5 +170,7 @@ I am researcher
 - *2018.09 - 2020/05*, Graduate Teaching Assistant, The George Washington University
   - SEAS 1001 Engineering Orientation 
   - BME 2825 Biomedical Engineering Programming II 
-- *2019 01*, Mentor, 2019 George Hacks Medical Solutions Hackathon
-- *2016.04 - 2016.07*, Undergraduate Group Project Advisor, Shenzhen University 
+- *2019.01*, Mentor, 2019 George Hacks Medical Solutions Hackathon
+- *2016.04 - 2016.07*, Undergraduate Group Project Advisor, Shenzhen University
+- *2015.07 - 2015.08*, Intern, Shenzhen JBT Smart Lighting Co., Ltd.,
+- *2014.07 - 2014.08*, Intern, Shenzhen Marine Shipping & Engineering Service Co., Ltd., 
