@@ -60,13 +60,13 @@ I am researcher
 
 - [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
-- [Robust Multimodal Emotion Recognition from Conversation with Transformer-Based Crossmodality Fusion](https://www.mdpi.com/1424-8220/21/14/4913), **Baijun Xie**, Mariia Sidulova, Chung Hyuk Park, *Sensors*
+- [Robust Multimodal Emotion Recognition from Conversation with Transformer-Based Crossmodality Fusion](https://www.mdpi.com/1424-8220/21/14/4913), **Baijun Xie**, Mariia Sidulova, Chung Hyuk Park, *Sensors*, 2021
 
 - [Empathetic Robot With Transformer-Based Dialogue Agent](https://ieeexplore.ieee.org/abstract/document/9494669), **Baijun Xie**, Chung Hyuk Park, *2021 18th International Conference on Ubiquitous Robots (UR)*
 
 - [Dance with a Robot: Encoder-Decoder Neural Network for Music-Dance Learning](https://dl.acm.org/doi/abs/10.1145/3371382.3378372), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*
 
-- [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), **Baijun Xie**, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*
+- [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), **Baijun Xie**, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*, 2020
 
 </div>
 </div>
@@ -108,7 +108,7 @@ I am researcher
 <!-- Publications -->
 <div class='publications' markdown="1">
 
-- [DXM‐TransFuse U-net: Dual cross-modal transformer fusion U-net for automated nerve identification](https://www.sciencedirect.com/science/article/pii/S0895611122000635), **Baijun Xie**, Gary Milam, Bo Ning, Jaepyeong Cha, Chung Hyuk Park, *Computerized Medical Imaging and Graphics*
+- [DXM‐TransFuse U-net: Dual cross-modal transformer fusion U-net for automated nerve identification](https://www.sciencedirect.com/science/article/pii/S0895611122000635), **Baijun Xie**, Gary Milam, Bo Ning, Jaepyeong Cha, Chung Hyuk Park, *Computerized Medical Imaging and Graphics*, 2022
 
 - ``Patent`` Real Time Automated Nerve Identification System.” International Publication No. WO2023/183930, Gary Milam, **Baijun Xie**, Chung Hyuk Park
 
@@ -120,8 +120,11 @@ I am researcher
 <!-- - [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* -->
 
 
+## Others
 
-- [Trainable Quaternion Extended Kalman Filter with Multi-Head Attention for Dead Reckoning in Autonomous Ground Vehicles](https://www.mdpi.com/1424-8220/22/20/7701), Gary Milam, **Baijun Xie**, Runnan Liu, Xiaoheng Zhu, Juyoun Park, Gonwoo Kim, Chung Hyuk Park, *Sensors*
+- [A MultiModal Social Robot Toward Personalized Emotion Interaction](https://arxiv.org/pdf/2110.05186.pdf), Baijun, Chung Hyuk Park, *arXiv preprint*, Submitted to AAAI 2023 Fall Symposium
+
+- [Trainable Quaternion Extended Kalman Filter with Multi-Head Attention for Dead Reckoning in Autonomous Ground Vehicles](https://www.mdpi.com/1424-8220/22/20/7701), Gary Milam, **Baijun Xie**, Runnan Liu, Xiaoheng Zhu, Juyoun Park, Gonwoo Kim, Chung Hyuk Park, *Sensors*, 2022
 
 
 
