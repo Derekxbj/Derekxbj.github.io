@@ -122,7 +122,7 @@ I am researcher
 
 ## Others
 
-- [A MultiModal Social Robot Toward Personalized Emotion Interaction](https://arxiv.org/pdf/2110.05186.pdf), Baijun, Chung Hyuk Park, *arXiv preprint*, Submitted to AAAI 2023 Fall Symposium
+- [A MultiModal Social Robot Toward Personalized Emotion Interaction](https://arxiv.org/pdf/2110.05186.pdf), **Baijun Xie**, Chung Hyuk Park, *arXiv preprint*, Submitted to AAAI 2023 Fall Symposium
 
 - [Trainable Quaternion Extended Kalman Filter with Multi-Head Attention for Dead Reckoning in Autonomous Ground Vehicles](https://www.mdpi.com/1424-8220/22/20/7701), Gary Milam, **Baijun Xie**, Runnan Liu, Xiaoheng Zhu, Juyoun Park, Gonwoo Kim, Chung Hyuk Park, *Sensors*, 2022
 
@@ -166,4 +166,9 @@ I am researcher
 
 
 # 💻 Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.06 - Present*, Graduate Research Assistant, The George Washington University
+- *2018.09 - 2020/05*, Graduate Teaching Assistant, The George Washington University
+  - SEAS 1001 Engineering Orientation 
+  - BME 2825 Biomedical Engineering Programming II 
+- *2019 01*, Mentor, 2019 George Hacks Medical Solutions Hackathon
+- *2016.04 - 2016.07*, Undergraduate Group Project Advisor, Shenzhen University 
