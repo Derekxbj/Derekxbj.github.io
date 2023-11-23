@@ -81,6 +81,9 @@ I am researcher
 
 **Baijun Xie**, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* [\[Code\]](https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues)
 
+- We participate the [Social IQ 2.0 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/), which is designed to benchmark recent AI technologies' skills to reason about social interactions, which is referred as Artificial Social Intelligence.
+- We developed a framework named Multi-Modal Temporal Correlated Network with Emotional Social Cues (MMTC-ESC). MMTC-ESC exhibits an attention-based mechanism to model cross-modal correlations and utilizes contrastive learning for reasoning the emotional social cues.
+
 
 </div>
 </div>
@@ -159,5 +162,5 @@ I am researcher
 
 
 
-# 💻 Internships
+# 💻 Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
