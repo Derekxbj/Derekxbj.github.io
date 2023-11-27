@@ -147,9 +147,9 @@ My research interests are in the intersection of machine learning and human-robo
 
 # 📖 Educations
 - *2018.09 - 2023.11 (now)*, Doctor of Philosophy, The George Washington University, Washington DC, U.S.A.
-  - Related courses: Probability for Computer Science, Design & Analysis of Algorithm, Machine Learning, Digital Image Processing, Biomedical Signal Analysis
+  - Related courses: Probability for Computer Science, Design & Analysis of Algorithm, Machine Learning, Pattern Recognition, Digital Image Processing, Robotics Vision and Perceptio, Biomedical Signal Analysis
 - *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington DC, U.S.A. 
-  - Related courese: Analytical Methods in Engineering, Applied Nonlinear Control, Applied Optimal Control & Estimation, Electromechanical Control System, Mechatronics Design, Numerical Solution Tech in MAE, Spacecraft Attitude Control, System Optimization
+  - Related courese: Analytical Methods in Engineering,  Electromechanical Control System, Robotic Systems, Mechatronics Design, Numerical Solution Tech in MAE, Applied Nonlinear Control, Applied Optimal Control & Estimation, Spacecraft Attitude Control, System Optimization, Advanced Mechanical Engineering Design
 - *2012.09 - 2016.06*, Bachelor of Engineering, Shenzhen University, Guandong, China. 
 
 # 💬 Invited Talks
