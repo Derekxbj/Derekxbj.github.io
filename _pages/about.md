@@ -103,7 +103,7 @@ My research interests are in the intersection of machine learning and human-robo
 
 <div class='paper-box-text' markdown="1">
 
-*2019.03 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [Real-Time Nerve Tissue Detection and Visualization](http://www.chunghyukpark.com/real-time-nerve-tissue-detection-and-visualization.html). 
+*2020.09 - 2022.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [Real-Time Nerve Tissue Detection and Visualization](http://www.chunghyukpark.com/real-time-nerve-tissue-detection-and-visualization.html). 
 
 - We proposed the usage of birefringence images with deep learning inference to help with the detection of nerves. The study findings showed that leveraging birefringence images outperforms its RGB counterpart for nerve detection and segmentation. Additionally, introducing the crossattention module on a single modality network improved the detection and segmentation of nerve structures on the birefringence images.
 
