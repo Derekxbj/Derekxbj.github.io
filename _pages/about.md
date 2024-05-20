@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I take the position of research assistant at the George Washington University. I am scheduled to be conferred with a Doctor of Philosophy degree by the end of the year 2023.
+Currently, I am a research Engineer at Meta Reality Labs.
+
+Previsouly, I took the position of research assistant at the George Washington University. I was conferred with a Doctor of Philosophy degree by the end of the year 2023.
 
 My research interests are in the intersection of machine learning and human-robot interaction (HRI). From a methodological perspective, the objective of my study is to utilize machine learning algorithms together with emotional intelligence to facilitate the creation of more engaging and empathetic experiences in HRI. Throughout the duration of my doctoral research, the robotic system that I have developed has successfully attained the capability of engaging in interactive emotional communication by utilizing both verbal and non-verbal social cues. Additionally, I had the task of designing and assessing a social-emotional robot that incorporated an interactive gaming scenario. In addition, a user study was conducted on the empathetic robotic companion that has been designed specifically for autistic adolescents, along with a personalized intervention program.
 
@@ -26,6 +28,7 @@ My research interests are in the intersection of machine learning and human-robo
 
 
 # 🔥 News
+- *2024.04*: &nbsp;💻 💻 I am thrilled to start a new position as a research engineer at Meta Reality Labs!
 - *2023.11*: &nbsp;🎉🎉 I have pased my PhD dissertation defense!
 
 
@@ -52,7 +55,7 @@ My research interests are in the intersection of machine learning and human-robo
 
 <div class='paper-box-text' markdown="1">
 
-*2019.03 - now*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html). 
+*2019.03 - 2023.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html). 
 
 - The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
 
@@ -146,7 +149,7 @@ My research interests are in the intersection of machine learning and human-robo
 
 
 # 📖 Educations
-- *2018.09 - 2023.11 (now)*, Doctor of Philosophy, The George Washington University, Washington DC, U.S.A.
+- *2018.09 - 2023.12*, Doctor of Philosophy, The George Washington University, Washington DC, U.S.A.
   - Related courses: Probability for Computer Science, Design & Analysis of Algorithm, Machine Learning, Pattern Recognition, Digital Image Processing, Robotics Vision and Perceptio, Biomedical Signal Analysis
 - *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington DC, U.S.A. 
   - Related courese: Analytical Methods in Engineering,  Electromechanical Control System, Robotic Systems, Mechatronics Design, Numerical Solution Tech in MAE, Applied Nonlinear Control, Applied Optimal Control & Estimation, Spacecraft Attitude Control, System Optimization, Advanced Mechanical Engineering Design
@@ -172,7 +175,8 @@ My research interests are in the intersection of machine learning and human-robo
 
 
 # 💻 Experience
-- *2020.06 - Present*, Graduate Research Assistant, The George Washington University
+- *2024.04 - Present*, Research Engineer, Meta Reality Labs
+- *2020.06 - 2023.12*, Graduate Research Assistant, The George Washington University
 - *2018.09 - 2020/05*, Graduate Teaching Assistant, The George Washington University
   - SEAS 1001 Engineering Orientation 
   - BME 2825 Biomedical Engineering Programming II 
