@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Baijun Xie (谢百俊)"
-description              : "Reserach Assitant in the GWU, focusing on human-robot interaction, machine learning, and artificial intelligence."
+description              : "Reserach Engineer at Meta Reality Labs, focusing on human-computer interaction, machine learning, and input sensing."
 repository               : "https://derekxbj.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Baijun Xie"
   avatar           : "images/bio_xie.jpg"
-  bio              : "The George Washington University"
-  location         : "Washington, DC"
+  bio              : "Meta Reality Labs"
+  location         : "Redmond, Washington"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AMhoH4IAAAAJ"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "baijun-xie"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-5080-198X"
   pinterest        :
