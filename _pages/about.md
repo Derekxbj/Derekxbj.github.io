@@ -31,6 +31,17 @@ My research interests are in the intersection of machine learning and human-robo
 - *2024.04*: &nbsp;💻 💻 I am thrilled to start a new position as a research engineer at Meta Reality Labs!
 - *2023.11*: &nbsp;🎉🎉 I have pased my PhD dissertation defense!
 
+# 💻 Experience
+- *2024.04 - Present*, Research Engineer, Meta Reality Labs
+- *2020.06 - 2023.12*, Graduate Research Assistant, The George Washington University
+- *2018.09 - 2020/05*, Graduate Teaching Assistant, The George Washington University
+  - SEAS 1001 Engineering Orientation 
+  - BME 2825 Biomedical Engineering Programming II 
+- *2019.01*, Mentor, 2019 George Hacks Medical Solutions Hackathon
+- *2016.04 - 2016.07*, Undergraduate Group Project Advisor, Shenzhen University
+- *2015.07 - 2015.08*, Intern, Shenzhen JBT Smart Lighting Co., Ltd.,
+- *2014.07 - 2014.08*, Intern, Shenzhen Marine Shipping & Engineering Service Co., Ltd., 
+
 
 # 📝 Projects and Publications 
 
@@ -172,15 +183,3 @@ My research interests are in the intersection of machine learning and human-robo
 - *2019.04*, 2019 Research Day at the GWU
 - *2018.02*, 2018 GW SEAS R&D Showcase at the GWU
 
-
-
-# 💻 Experience
-- *2024.04 - Present*, Research Engineer, Meta Reality Labs
-- *2020.06 - 2023.12*, Graduate Research Assistant, The George Washington University
-- *2018.09 - 2020/05*, Graduate Teaching Assistant, The George Washington University
-  - SEAS 1001 Engineering Orientation 
-  - BME 2825 Biomedical Engineering Programming II 
-- *2019.01*, Mentor, 2019 George Hacks Medical Solutions Hackathon
-- *2016.04 - 2016.07*, Undergraduate Group Project Advisor, Shenzhen University
-- *2015.07 - 2015.08*, Intern, Shenzhen JBT Smart Lighting Co., Ltd.,
-- *2014.07 - 2014.08*, Intern, Shenzhen Marine Shipping & Engineering Service Co., Ltd., 
