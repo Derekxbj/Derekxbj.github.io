@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Baijun Xie"
   avatar           : "images/bio_xie.jpg"
-  bio              : "Meta Reality Labs"
+  bio              : 
   location         : "Redmond, Washington"
-  employer         : 
+  employer         : "Meta Reality Labs"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AMhoH4IAAAAJ"
   email            : "baijunxie.bx@gmail.com"

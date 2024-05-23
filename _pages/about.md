@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a research Engineer at Meta Reality Labs.
+Currently, I am a research engineer at Meta Reality Labs. My mission is to research new augmented reality (AR) input devices with a focus on human-computer interaction (HCI), input sensing, machine learning, and user interfaces. I am working with a diverse and highly interdisciplinary team of researchers and engineers and will have access to cutting-edge technology, resources, and testing facilities.
 
-Previsouly, I took the position of research assistant at the George Washington University. I was conferred with a Doctor of Philosophy degree by the end of the year 2023.
+Previsouly, I am a graduate research assistant at the George Washington University. I was conferred with a Doctor of Philosophy degree by the end of the year 2023.
 
-My research interests are in the intersection of machine learning and human-robot interaction (HRI). From a methodological perspective, the objective of my study is to utilize machine learning algorithms together with emotional intelligence to facilitate the creation of more engaging and empathetic experiences in HRI. Throughout the duration of my doctoral research, the robotic system that I have developed has successfully attained the capability of engaging in interactive emotional communication by utilizing both verbal and non-verbal social cues. Additionally, I had the task of designing and assessing a social-emotional robot that incorporated an interactive gaming scenario. In addition, a user study was conducted on the empathetic robotic companion that has been designed specifically for autistic adolescents, along with a personalized intervention program.
+My research interests are at the intersection of machine learning, HCI, and human-robot interaction (HRI). From a methodological perspective, the objective of my doctoral study is to utilize machine learning algorithms together with emotional intelligence to facilitate the creation of more engaging and empathetic experiences in HRI. Throughout the duration of my doctoral research, the robotic system that I have developed has successfully attained the capability of engaging in interactive emotional communication by utilizing both verbal and non-verbal social cues. Additionally, I had the task of designing and assessing a social-emotional robot that incorporated an interactive gaming scenario. In addition, a user study was conducted on the empathetic robotic companion that has been designed specifically for autistic adolescents, along with a personalized intervention program.
 
 
 
@@ -68,7 +68,7 @@ My research interests are in the intersection of machine learning and human-robo
 
 *2019.03 - 2023.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html). 
 
-- The goal of this project is to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project:
+- The goal of this project was to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project include:
 
 </div>
 
@@ -99,8 +99,8 @@ My research interests are in the intersection of machine learning and human-robo
 
 **Baijun Xie**, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* [\[Code\]](https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues)
 
-- We participate the [Social IQ 2.0 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/), which is designed to benchmark recent AI technologies' skills to reason about social interactions, which is referred as Artificial Social Intelligence.
-- We developed a framework named Multi-Modal Temporal Correlated Network with Emotional Social Cues (MMTC-ESC). MMTC-ESC exhibits an attention-based mechanism to model cross-modal correlations and utilizes contrastive learning for reasoning the emotional social cues.
+- We participated in the [Social IQ 2.0 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/), which is designed to benchmark recent AI technologies' skills to reason about social interactions, which is referred to as Artificial Social Intelligence.
+- We developed a framework named Multi-Modal Temporal Correlated Network with Emotional Social Cues (MMTC-ESC). MMTC-ESC exhibits an attention-based mechanism to model cross-modal correlations and utilizes contrastive learning for reasoning about emotional social cues.
 
 
 </div>
@@ -119,7 +119,7 @@ My research interests are in the intersection of machine learning and human-robo
 
 *2020.09 - 2022.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [Real-Time Nerve Tissue Detection and Visualization](http://www.chunghyukpark.com/real-time-nerve-tissue-detection-and-visualization.html). 
 
-- We proposed the usage of birefringence images with deep learning inference to help with the detection of nerves. The study findings showed that leveraging birefringence images outperforms its RGB counterpart for nerve detection and segmentation. Additionally, introducing the crossattention module on a single modality network improved the detection and segmentation of nerve structures on the birefringence images.
+- We proposed the use of birefringence images with deep learning inference to help with the detection of nerves. The study findings showed that leveraging birefringence images outperforms its RGB counterpart for nerve detection and segmentation. Additionally, introducing the cross-attention module on a multi-modality network improved the detection and segmentation of nerve structures on the birefringence images.
 
 </div>
 
