@@ -19,9 +19,7 @@ redirect_from:
 
 Currently, I am a research engineer at Meta Reality Labs. My mission is to research new augmented reality (AR) input devices with a focus on human-computer interaction (HCI), input sensing, machine learning, and user interfaces. I am working with a diverse and highly interdisciplinary team of researchers and engineers and will have access to cutting-edge technology, resources, and testing facilities.
 
-Previsouly, I am a graduate research assistant at the George Washington University. I was conferred with a Doctor of Philosophy degree by the end of the year 2023.
-
-My research interests are at the intersection of machine learning, HCI, and human-robot interaction (HRI). From a methodological perspective, the objective of my doctoral study is to utilize machine learning algorithms together with emotional intelligence to facilitate the creation of more engaging and empathetic experiences in HRI. Throughout the duration of my doctoral research, the robotic system that I have developed has successfully attained the capability of engaging in interactive emotional communication by utilizing both verbal and non-verbal social cues. Additionally, I had the task of designing and assessing a social-emotional robot that incorporated an interactive gaming scenario. In addition, a user study was conducted on the empathetic robotic companion that has been designed specifically for autistic adolescents, along with a personalized intervention program.
+Previsouly, I am a graduate research assistant at the George Washington University. I was conferred with a Doctor of Philosophy degree by the end of the year 2023. My doctoral research is at the intersection of machine learning and human-robot interaction (HRI). From a methodological perspective, the objective of my doctoral study is to utilize machine learning algorithms together with emotional intelligence to facilitate the creation of more engaging and empathetic experiences in HRI. Throughout the duration of my doctoral research, the robotic system that I have developed has successfully attained the capability of engaging in interactive emotional communication by utilizing both verbal and non-verbal social cues. Additionally, I had the task of designing and assessing a social-emotional robot that incorporated an interactive gaming scenario. In addition, a user study was conducted on the empathetic robotic companion that has been designed specifically for autistic adolescents, along with a personalized intervention program.
 
 
 
@@ -75,6 +73,7 @@ My research interests are at the intersection of machine learning, HCI, and huma
 <!-- Publications -->
 <div class='publications' markdown="1">
 
+- [An Empathetic Social Robot with Modular Anxiety Interventions for Autistic Adolescents](https://www.ro-man2024.org/contributing/regularpapersubmission), **Baijun Xie**, Chung Hyuk Park, *2024 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, **Accepted in May 2024**
 
 - [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
@@ -152,7 +151,7 @@ My research interests are at the intersection of machine learning, HCI, and huma
 
 # 🎖 Honors and Awards
 - *2023.01* 2022 Collins Distinguished Doctoral Fellowship at the GWU. 
-- *2022.04* 2022 GW Technology Commercialization Innovation Competition ([Audience’s choice posters Prize](https://commercialization.gwu.edu/tco-innovation-competition)). 
+- *2022.04* 2022 GW [Technology Commercialization Innovation Competition](https://commercialization.gwu.edu/tco-innovation-competition) ([Audience’s choice posters Prize](https://technologies.research.gwu.edu/technology/46453)). 
 - *2022.01* 2021 Collins Distinguished Doctoral Fellowship at the GWU. 
 - *2016.05* 2016 A Hundred Excellent Final Year Theses Prize in Shenzhen University . 
 - *2015.09* 2015 Shenzhen University Challenge Cup University Student Venture Contest (2nd Prize). 
