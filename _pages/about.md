@@ -32,13 +32,19 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 # 💻 Experience
 - *2024.04 - Present*, Research Engineer, Meta Reality Labs
 - *2020.06 - 2023.12*, Graduate Research Assistant, The George Washington University
-- *2018.09 - 2020/05*, Graduate Teaching Assistant, The George Washington University
+- *2018.09 - 2020.05*, Graduate Teaching Assistant, The George Washington University
   - SEAS 1001 Engineering Orientation 
   - BME 2825 Biomedical Engineering Programming II 
 - *2019.01*, Mentor, 2019 George Hacks Medical Solutions Hackathon
-- *2016.04 - 2016.07*, Undergraduate Group Project Advisor, Shenzhen University
+- *2017.02 - 2018.05*, Graduate Researcher, The George Washington University
+  - Multi-Domain Search and Rescue using Cooperative Robots 
+  - Practical Numerical Methods with Python for Shallow Water Equations (SWEs) [[simulation]](https://nbviewer.org/github/Derekxbj/mae-6286/blob/1e23dc1be3c44ad70cb7840ba3bb50cd041e9aba/final_project/Final.ipynb)
+- *2014.10 - 2016.05*, Undergraduate Researcher, Shenzhen University
+  - Design of Perovskite Solar Cells 
+  - Laboratory Open Fund Project of Shenzhen University
+  - Shenzhen University 2015 Challenge Cup University Student Venture Contest
 - *2015.07 - 2015.08*, Intern, Shenzhen JBT Smart Lighting Co., Ltd.,
-- *2014.07 - 2014.08*, Intern, Shenzhen Marine Shipping & Engineering Service Co., Ltd., 
+
 
 
 # 📝 Projects and Publications 
