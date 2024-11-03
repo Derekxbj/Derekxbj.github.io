@@ -79,7 +79,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 <!-- Publications -->
 <div class='publications' markdown="1">
 
-- [An Empathetic Social Robot with Modular Anxiety Interventions for Autistic Adolescents](https://www.ro-man2024.org/contributing/regularpapersubmission), **Baijun Xie**, Chung Hyuk Park, *2024 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, **Accepted in May 2024**
+- [An Empathetic Social Robot with Modular Anxiety Interventions for Autistic Adolescents](https://ieeexplore.ieee.org/abstract/document/10731248), **Baijun Xie**, Chung Hyuk Park, *2024 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*
 
 - [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
@@ -166,7 +166,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 # 📖 Educations
 - *2018.09 - 2023.12*, Doctor of Philosophy, The George Washington University, Washington DC, U.S.A.
-  - Related courses: Probability for Computer Science, Design & Analysis of Algorithm, Machine Learning, Pattern Recognition, Digital Image Processing, Robotics Vision and Perceptio, Biomedical Signal Analysis
+  - Related courses: Probability for Computer Science, Design & Analysis of Algorithm, Machine Learning, Pattern Recognition, Digital Image Processing, Robotics Vision and Perception, Biomedical Signal Analysis
 - *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington DC, U.S.A. 
   - Related courese: Analytical Methods in Engineering,  Electromechanical Control System, Robotic Systems, Mechatronics Design, Numerical Solution Tech in MAE, Applied Nonlinear Control, Applied Optimal Control & Estimation, Spacecraft Attitude Control, System Optimization, Advanced Mechanical Engineering Design
 - *2012.09 - 2016.06*, Bachelor of Engineering, Shenzhen University, Guandong, China. 
