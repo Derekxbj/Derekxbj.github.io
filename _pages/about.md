@@ -145,7 +145,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 ## Others
 
-- [Real-time teleoperation of magnetic force-driven microrobots with a motion model and stable haptic force feedback for micromanipulation.](https://arxiv.org/pdf/2110.05186.pdf), Duygu, Yasin Cagatay, **Baijun Xie**, Xiao Zhang, Min Jun Kim, and Chung Hyuk Park, *Nanotechnology and Precision Engineering*, 2025
+- [Real-time teleoperation of magnetic force-driven microrobots with a motion model and stable haptic force feedback for micromanipulation.](https://doi.org/10.1063/10.0034396), Duygu, Yasin Cagatay, **Baijun Xie**, Xiao Zhang, Min Jun Kim, and Chung Hyuk Park, *Nanotechnology and Precision Engineering*, 2025
 
 - [A MultiModal Social Robot Toward Personalized Emotion Interaction](https://arxiv.org/pdf/2110.05186.pdf), **Baijun Xie**, Chung Hyuk Park, *arXiv preprint*, Submitted to AAAI 2023 Fall Symposium
 
