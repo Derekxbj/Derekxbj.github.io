@@ -145,6 +145,8 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 ## Others
 
+- [Real-time teleoperation of magnetic force-driven microrobots with a motion model and stable haptic force feedback for micromanipulation.](https://arxiv.org/pdf/2110.05186.pdf), Duygu, Yasin Cagatay, **Baijun Xie**, Xiao Zhang, Min Jun Kim, and Chung Hyuk Park, *Nanotechnology and Precision Engineering*, 2025
+
 - [A MultiModal Social Robot Toward Personalized Emotion Interaction](https://arxiv.org/pdf/2110.05186.pdf), **Baijun Xie**, Chung Hyuk Park, *arXiv preprint*, Submitted to AAAI 2023 Fall Symposium
 
 - [Trainable Quaternion Extended Kalman Filter with Multi-Head Attention for Dead Reckoning in Autonomous Ground Vehicles](https://www.mdpi.com/1424-8220/22/20/7701), Gary Milam, **Baijun Xie**, Runnan Liu, Xiaoheng Zhu, Juyoun Park, Gonwoo Kim, Chung Hyuk Park, *Sensors*, 2022
