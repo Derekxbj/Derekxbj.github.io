@@ -36,9 +36,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
   - SEAS 1001 Engineering Orientation 
   - BME 2825 Biomedical Engineering Programming II 
 - *2019.01*, Mentor, 2019 George Hacks Medical Solutions Hackathon
-- *2017.02 - 2018.05*, Graduate Researcher, The George Washington University
-  - Multi-Domain Search and Rescue using Cooperative Robots 
-  - Practical Numerical Methods with Python for Shallow Water Equations (SWEs) [[simulation]](https://nbviewer.org/github/Derekxbj/mae-6286/blob/1e23dc1be3c44ad70cb7840ba3bb50cd041e9aba/final_project/Final.ipynb)
+- *2017.02 - 2018.05*, Graduate Researcher, The George Washington University 
 - *2014.10 - 2016.05*, Undergraduate Researcher, Shenzhen University
   - Design of Perovskite Solar Cells 
   - Laboratory Open Fund Project of Shenzhen University
@@ -122,7 +120,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
       <div class="badge">NERVE</div>
       <img src='images/nerve_project.jpg' alt="sym" width="120%">
       <!-- New GIF inserted below -->
-      <img src='files/nerve.gif' alt="animated gif" width="120%">
+      <img src='files/nerve.gif' alt="animated gif" width="80%">
     </div>
   </div>
 
@@ -151,6 +149,10 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 <div class='paper-box-image'><div><div class="badge">VISION</div><img src='files/platform_test.gif' alt="sym" width="120%"></div></div>
 
 
+*2017.02 - 2018.05*: I participated in the project of "Multi-Domain Search and Rescue using Cooperative Robots". 
+
+- During my Master’s research, I contributed to the project where we developed a collaborative system integrating aerial quadrotors and ground robots for efficient rescue operations. We focused on enabling the quadrotors to autonomously detect and track ground robots using advanced computer vision techniques, ensuring seamless communication and coordination between the two platforms. 
+
 </div>
 
 <!-- - [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* -->
@@ -164,7 +166,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 - [Trainable Quaternion Extended Kalman Filter with Multi-Head Attention for Dead Reckoning in Autonomous Ground Vehicles](https://www.mdpi.com/1424-8220/22/20/7701), Gary Milam, **Baijun Xie**, Runnan Liu, Xiaoheng Zhu, Juyoun Park, Gonwoo Kim, Chung Hyuk Park, *Sensors*, 2022
 
-
+- Practical Numerical Methods with Python for Shallow Water Equations (SWEs) [[simulation]](https://nbviewer.org/github/Derekxbj/mae-6286/blob/1e23dc1be3c44ad70cb7840ba3bb50cd041e9aba/final_project/Final.ipynb)
 
 
 
