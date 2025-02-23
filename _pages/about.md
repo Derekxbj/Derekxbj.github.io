@@ -117,7 +117,14 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 ## Medical Imaging
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NERVE</div><img src='images/nerve_project.jpg' alt="sym" width="120%"></div></div>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NERVE</div>
+      <img src='images/nerve_project.jpg' alt="sym" width="120%">
+      <!-- New GIF inserted below -->
+      <img src='files/nerve.gif' alt="animated gif" width="120%">
+    </div>
+  </div>
 
 <div class='paper-box-text' markdown="1">
 
