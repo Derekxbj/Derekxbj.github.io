@@ -155,6 +155,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
       <div class="badge">ROBOT</div>
       <img src='files/platform_test.gif' alt="sym" width="80%">
       <div style="text-align: center;  margin-top: 20px;">
+        <div class="badge">ROBOT</div>
         <img src='files/simulation.gif' alt="animated gif" width="80%">
       </div>
     </div>
@@ -166,7 +167,6 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 - I contributed to the project where we developed a collaborative system integrating aerial quadrotors and ground robots for efficient rescue operations. We focused on enabling the quadrotors to autonomously detect and track ground robots using advanced computer vision techniques, ensuring seamless communication and coordination between the two platforms. 
 
-</div>
 </div>
 
 
