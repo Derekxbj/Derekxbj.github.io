@@ -117,8 +117,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 ## Medical Imaging
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NERVE</div><img src='images/nerve_project.jpg' alt="sym" width="120%"></div><img src='files/platform_test.gif' alt="sym" width="120%"></div></div>
-<div class='paper-box-image'><div><div class="badge">VISION</div><img src='files/platform_test.gif' alt="sym" width="120%"></div></div>
+<div class='paper-box-image'><div><div class="badge">NERVE</div><img src='images/nerve_project.jpg' alt="sym" width="120%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
