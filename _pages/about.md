@@ -118,7 +118,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">NERVE</div><img src='images/nerve_project.jpg' alt="sym" width="120%"></div></div>
-
+<div class='paper-box-image'><div><div class="badge">VISION</div><img src='files/platform_test.gif' alt="sym" width="120%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -136,13 +136,16 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 - ``Patent`` Real Time Automated Nerve Identification System.” International Publication No. WO2023/183930, Gary Milam, **Baijun Xie**, Chung Hyuk Park
 
 </div>
-</div>
+
 
 ## Robotics
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">VISION</div><img src='files/platform_test.gif' alt="sym" width="120%"></div></div>
 
+
+</div>
+</div>
 
 <!-- - [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* -->
 
