@@ -155,7 +155,6 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
         <img src='files/simulation.gif' alt="animated gif" width="80%">
       </div>
     </div>
-  </div>
 
 <div class='paper-box-text' markdown="1">
 
