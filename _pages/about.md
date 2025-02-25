@@ -158,9 +158,11 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 <div class='paper-box-text' markdown="1">
 
-*2017.02 - 2018.05*: &nbsp; I participated in the project of "Multi-Domain Search and Rescue using Cooperative Robots" during my Master’s research.
+*2017.02 - 2018.05*: &nbsp; I participated in the project of "Multi-Domain Search and Rescue using Cooperative Robots" during my Master’s research. In this project, we
 
-- I contributed to the project where we developed a collaborative system integrating aerial quadrotors and ground robots for efficient rescue operations. We focused on enabling the quadrotors to autonomously detect and track ground robots using advanced computer vision techniques, ensuring seamless communication and coordination between the two platforms. 
+- Developed a collaborative system integrating aerial quadrotors and ground robots for efficient rescue operations, utilizing advanced computer vision for autonomous detection and tracking and ensuring seamless inter-platform communication.
+- Applied a model-based least squares pose estimation method and trained a custom CNN for precise recognition of ground robots, enhancing detection and tracking even in challenging conditions.
+- Conducted rigorous experiments and simulations on quadrotor control, employing both PID and geometry controllers to achieve autonomous flight stability and precise navigation.
 
 </div>
 </div>
