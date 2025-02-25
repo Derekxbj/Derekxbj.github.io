@@ -148,23 +148,22 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-      <div style="text-align: center;">
+    <div>
+      <div class="badge">ROBOT</div>
+      <img src='files/platform_test.gif' alt="sym" width="80%">
         <div class="badge">ROBOT</div>
-        <img src='files/platform_test.gif' alt="Platform Test" width="80%">
-      </div>
-      <div style="text-align: center;">
-        <div class="badge">ROBOT</div>
-        <img src='files/simulation.gif' alt="Simulation" width="80%">
+        <img src='files/simulation.gif' alt="animated gif" width="80%">
       </div>
     </div>
   </div>
 
-  <div class='paper-box-text' markdown="1" style="margin-top: 20px;">
-    *2017.02 - 2018.05*: I participated in the project of "Multi-Domain Search and Rescue using Cooperative Robots" during my Master’s research.
+<div class='paper-box-text' markdown="1">
 
-    - I contributed to the project where we developed a collaborative system integrating aerial quadrotors and ground robots for efficient rescue operations. We focused on enabling the quadrotors to autonomously detect and track ground robots using advanced computer vision techniques, ensuring seamless communication and coordination between the two platforms.
-  </div>
+*2017.02 - 2018.05*: &nbsp; I participated in the project of "Multi-Domain Search and Rescue using Cooperative Robots" during my Master’s research.
+
+- I contributed to the project where we developed a collaborative system integrating aerial quadrotors and ground robots for efficient rescue operations. We focused on enabling the quadrotors to autonomously detect and track ground robots using advanced computer vision techniques, ensuring seamless communication and coordination between the two platforms. 
+
+</div>
 </div>
 
 
