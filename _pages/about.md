@@ -174,13 +174,13 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
   <div class='paper-box-image'>
     <div>
       <div class="badge">SWE</div>
-      <img src='files/shallow_water.gif' alt="swe" width="80%">
+      <img src='files/shallow_water.gif' alt="swe" width="120%">
     </div>
   </div>
 
 <div class='paper-box-text' markdown="1">
 
-*2017.08 - 2017.12*: &nbsp; I have done an independent project that deriving the full vectorization of a system of partial differential equations, Shallow Water Equations (SWEs), with conservative form.
+*2017.08 - 2017.12*: &nbsp; I have done an independent project that deriving the full vectorization of a system of partial differential equations, Shallow Water Equations (SWEs), with conservative form. [\[Code\]](https://nbviewer.org/github/Derekxbj/mae-6286/blob/1e23dc1be3c44ad70cb7840ba3bb50cd041e9aba/final_project/Final.ipynb)
 
 - Simulated the numerical results of SWEs and analyzed the grid convergence with different numerical schemes; improved the order of convergence from 1 to 2 by utilizing a Lax-Wendroff scheme.
 
