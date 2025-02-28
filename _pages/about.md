@@ -176,6 +176,7 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
       <div class="badge">SWE</div>
       <img src='files/shallow_water.gif' alt="swe" width="80%">
     </div>
+  </div>
 
 <div class='paper-box-text' markdown="1">
 
