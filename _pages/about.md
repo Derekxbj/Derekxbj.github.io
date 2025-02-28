@@ -168,6 +168,24 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 </div>
 
 
+## Numerical Analysis
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">SWE</div>
+      <img src='files/shallow_water.gif' alt="swe" width="80%">
+    </div>
+
+<div class='paper-box-text' markdown="1">
+
+*2017.08 - 2017.12*: &nbsp; I have done an independent project that deriving the full vectorization of a system of partial differential equations, Shallow Water Equations (SWEs), with conservative form.
+
+- Simulated the numerical results of SWEs and analyzed the grid convergence with different numerical schemes; improved the order of convergence from 1 to 2 by utilizing a Lax-Wendroff scheme.
+
+</div>
+</div>
+
 <!-- - [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* -->
 
 
