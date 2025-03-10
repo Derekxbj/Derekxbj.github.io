@@ -60,6 +60,23 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 </div> -->
 
 
+## Social Intelligence
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/siq_ex.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/papers/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.pdf)
+
+**Baijun Xie**, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* [\[Code\]](https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues)
+
+- We participated in the [Social IQ 2.0 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/), which is designed to benchmark recent AI technologies' skills to reason about social interactions, which is referred to as Artificial Social Intelligence.
+- We developed a framework named Multi-Modal Temporal Correlated Network with Emotional Social Cues (MMTC-ESC). MMTC-ESC exhibits an attention-based mechanism to model cross-modal correlations and utilizes contrastive learning for reasoning about emotional social cues.
+
+
+</div>
+</div>
+
+
 ## Human-Robot Interaction
 
 <div class='paper-box'>
@@ -81,30 +98,34 @@ Previsouly, I am a graduate research assistant at the George Washington Universi
 
 - [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
-- [Robust Multimodal Emotion Recognition from Conversation with Transformer-Based Crossmodality Fusion](https://www.mdpi.com/1424-8220/21/14/4913), **Baijun Xie**, Mariia Sidulova, Chung Hyuk Park, *Sensors*, 2021
-
 - [Empathetic Robot With Transformer-Based Dialogue Agent](https://ieeexplore.ieee.org/abstract/document/9494669), **Baijun Xie**, Chung Hyuk Park, *2021 18th International Conference on Ubiquitous Robots (UR)*
 
 - [Dance with a Robot: Encoder-Decoder Neural Network for Music-Dance Learning](https://dl.acm.org/doi/abs/10.1145/3371382.3378372), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction*
 
-- [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), **Baijun Xie**, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*, 2020
-
 </div>
 </div>
 
+## Emotion Recognition
 
-## Social Intelligence
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">EMOTION</div><img src='images/emotion_recognition.png' alt="sym" width="120%"></div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/siq_ex.jpg' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
 
-[Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/papers/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.pdf)
+To equip the robotic agent with emotional intelligence, we conducted comprehensive studies on multimodal emotion recognition, integrating facial expressions, speech text, and voice. Our approach involved training deep learning models to fuse these diverse inputs, enabling the agent to accurately interpret human emotions. This research aimed to enhance HRI by enabling context-aware, empathetic responses, ultimately improving user engagement and trust in robotic systems.
 
-**Baijun Xie**, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* [\[Code\]](https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues)
+- We developed a cutting-age multimodal framework for emotion recognition by fine-tuning backbone models and integrating a cross-modality fusion module to enhance feature integration and predictive accuracy.
+- We introduced a sinusoidal model-based spectral feature extraction method that enhances arousal and valence prediction in music emotion recognition, reducing prediction errors in CNN and regression models.
 
-- We participated in the [Social IQ 2.0 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/), which is designed to benchmark recent AI technologies' skills to reason about social interactions, which is referred to as Artificial Social Intelligence.
-- We developed a framework named Multi-Modal Temporal Correlated Network with Emotional Social Cues (MMTC-ESC). MMTC-ESC exhibits an attention-based mechanism to model cross-modal correlations and utilizes contrastive learning for reasoning about emotional social cues.
+</div>
 
+<!-- Publications -->
+<div class='publications' markdown="1">
+
+- [Robust Multimodal Emotion Recognition from Conversation with Transformer-Based Crossmodality Fusion](https://www.mdpi.com/1424-8220/21/14/4913), **Baijun Xie**, Mariia Sidulova, Chung Hyuk Park, *Sensors*, 2021
+
+- [Musical emotion recognition with spectral feature extraction based on a sinusoidal model with model-based and deep-learning approaches](https://www.mdpi.com/2076-3417/10/3/902), **Baijun Xie**, Jonathan C Kim, Chung Hyuk Park, *Applied Sciences*, 2020
 
 </div>
 </div>
