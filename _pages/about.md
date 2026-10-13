@@ -19,7 +19,7 @@ redirect_from:
 
 I joined Google as a software engineer in July 2026. I focus on AI modeling and quality, with work spanning context retrieval, prompt engineering, evaluation, and loss analysis.
 
-Previously, I was a research engineer at Meta Reality Labs, where I worked on augmented reality (AR) input devices with a focus on HCI, input sensing, machine learning, and user interfaces.
+Previously, I was a research engineer at Meta Reality Labs, where I worked on augmented reality (AR) input devices with a focus on human-computer interaction (HCI), input sensing, machine learning, and user interfaces.
 
 I earned my Ph.D. from the George Washington University in January 2024. My doctoral research combined machine learning and human-robot interaction to develop empathetic social robots, including assistive systems for autistic adolescents.
 
@@ -29,8 +29,8 @@ I earned my Ph.D. from the George Washington University in January 2024. My doct
 
 # 🔥 News
 - *2026.07*: &nbsp;💻 I joined Google as a software engineer!
-- *2024.04*: &nbsp;💻 💻 I am thrilled to start a new position as a research engineer at Meta Reality Labs!
-- *2023.11*: &nbsp;🎉🎉 I have pased my PhD dissertation defense!
+- *2024.04*: &nbsp;💻 I joined Meta Reality Labs as a research engineer!
+- *2023.11*: &nbsp;🎉 I successfully defended my Ph.D. dissertation!
 
 # 💻 Experience
 - *2026.07 - Present*, Software Engineer, Google
@@ -45,7 +45,7 @@ I earned my Ph.D. from the George Washington University in January 2024. My doct
   - Design of Perovskite Solar Cells 
   - Laboratory Open Fund Project of Shenzhen University
   - Shenzhen University 2015 Challenge Cup University Student Venture Contest
-- *2015.07 - 2015.08*, Intern, Shenzhen JBT Smart Lighting Co., Ltd.,
+- *2015.07 - 2015.08*, Intern, Shenzhen JBT Smart Lighting Co., Ltd.
 
 
 
@@ -73,7 +73,7 @@ I earned my Ph.D. from the George Washington University in January 2024. My doct
 
 **Baijun Xie**, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* [\[Code\]](https://github.com/Derekxbj/Social-IQ-2.0-Multimodal-with-Emotional-Cues)
 
-- We participated in the [Social IQ 2.0 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/), which is designed to benchmark recent AI technologies' skills to reason about social interactions, which is referred to as Artificial Social Intelligence.
+- We participated in the [Social IQ 2.0 Challenge](https://cmu-multicomp-lab.github.io/social-iq-2.0/), which benchmarks the ability of AI technologies to reason about social interactions, a capability known as artificial social intelligence.
 - We developed a framework named Multi-Modal Temporal Correlated Network with Emotional Social Cues (MMTC-ESC). MMTC-ESC exhibits an attention-based mechanism to model cross-modal correlations and utilizes contrastive learning for reasoning about emotional social cues.
 
 
@@ -89,7 +89,7 @@ I earned my Ph.D. from the George Washington University in January 2024. My doct
 
 <div class='paper-box-text' markdown="1">
 
-*2019.03 - 2023.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html). 
+*2019.03 - 2023.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project [CAREER: Social Intelligence with Contextual Ambidexterity for Long-Term Human-Robot Interaction and Intervention (LT-HRI2)](http://www.chunghyukpark.com/robots-for-autistic-adolescents.html).
 
 - The goal of this project was to understand the fundamental principles of human interactions and behaviors and translate these mechanisms into computational modeling and algorithms for a novel assistive robotic framework. Toward this goal, we developed a socially assistive robotic framework with contextual ambidexterity that is perceptive of personal socio-emotional states, capable of learning social skills, emotionally interactive, and gender-smart for long-term human-robot interaction and intervention. Several publications related to this project include:
 
@@ -100,7 +100,7 @@ I earned my Ph.D. from the George Washington University in January 2024. My doct
 
 - [An Empathetic Social Robot with Modular Anxiety Interventions for Autistic Adolescents](https://ieeexplore.ieee.org/abstract/document/10731248), **Baijun Xie**, Chung Hyuk Park, *2024 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*
 
-- [" Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
+- [Can You Guess My Moves? Playing Charades with a Humanoid Robot Employing Mutual Learning with Emotional Intelligence](https://dl.acm.org/doi/abs/10.1145/3568294.3580170), **Baijun Xie**, Chung Hyuk Park, *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction*
 
 - [Empathetic Robot With Transformer-Based Dialogue Agent](https://ieeexplore.ieee.org/abstract/document/9494669), **Baijun Xie**, Chung Hyuk Park, *2021 18th International Conference on Ubiquitous Robots (UR)*
 
@@ -119,7 +119,7 @@ I earned my Ph.D. from the George Washington University in January 2024. My doct
 
 To equip the robotic agent with emotional intelligence, we conducted comprehensive studies on multimodal emotion recognition, integrating facial expressions, speech text, and voice. Our approach involved training deep learning models to fuse these diverse inputs, enabling the agent to accurately interpret human emotions. This research aimed to enhance HRI by enabling context-aware, empathetic responses, ultimately improving user engagement and trust in robotic systems.
 
-- We developed a cutting-age multimodal framework for emotion recognition by fine-tuning backbone models and integrating a cross-modality fusion module to enhance feature integration and predictive accuracy.
+- We developed a cutting-edge multimodal framework for emotion recognition by fine-tuning backbone models and integrating a cross-modality fusion module to enhance feature integration and predictive accuracy.
 - We introduced a sinusoidal model-based spectral feature extraction method that enhances arousal and valence prediction in music emotion recognition, reducing prediction errors in CNN and regression models.
 
 </div>
@@ -152,9 +152,9 @@ To equip the robotic agent with emotional intelligence, we conducted comprehensi
 
 <div class='paper-box-text' markdown="1">
 
-*2020.09 - 2022.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project of [Real-Time Nerve Tissue Detection and Visualization](http://www.chunghyukpark.com/real-time-nerve-tissue-detection-and-visualization.html). 
+*2020.09 - 2022.12*: &nbsp; **<font color='red'> As a core member, </font>** I participated in the project [Real-Time Nerve Tissue Detection and Visualization](http://www.chunghyukpark.com/real-time-nerve-tissue-detection-and-visualization.html).
 
-- We proposed the use of birefringence images with deep learning inference to help with the detection of nerves. The study findings showed that leveraging birefringence images outperforms its RGB counterpart for nerve detection and segmentation. Additionally, introducing the cross-attention module on a multi-modality network improved the detection and segmentation of nerve structures on the birefringence images.
+- We proposed the use of birefringence images with deep learning inference to help with the detection of nerves. The study findings showed that birefringence images outperformed RGB images for nerve detection and segmentation. Additionally, introducing a cross-attention module into a multimodal network improved the detection and segmentation of nerve structures in birefringence images.
 
 </div>
 
@@ -163,7 +163,7 @@ To equip the robotic agent with emotional intelligence, we conducted comprehensi
 
 - [DXM‐TransFuse U-net: Dual cross-modal transformer fusion U-net for automated nerve identification](https://www.sciencedirect.com/science/article/pii/S0895611122000635), **Baijun Xie**, Gary Milam, Bo Ning, Jaepyeong Cha, Chung Hyuk Park, *Computerized Medical Imaging and Graphics*, 2022
 
-- ``Patent`` Real Time Automated Nerve Identification System.” International Publication No. WO2023/183930, Gary Milam, **Baijun Xie**, Chung Hyuk Park
+- ``Patent`` Real Time Automated Nerve Identification System. International Publication No. WO2023/183930, Gary Milam, **Baijun Xie**, Chung Hyuk Park
 
 </div>
 </div>
@@ -183,7 +183,7 @@ To equip the robotic agent with emotional intelligence, we conducted comprehensi
 
 <div class='paper-box-text' markdown="1">
 
-*2017.02 - 2018.05*: &nbsp; I participated in the project of "Multi-Domain Search and Rescue using Cooperative Robots" during my Master’s research. In this project, we
+*2017.02 - 2018.05*: &nbsp; I participated in the project "Multi-Domain Search and Rescue using Cooperative Robots" during my master’s research. In this project, we:
 
 - Developed a collaborative system integrating aerial quadrotors and ground robots for efficient rescue operations, utilizing advanced computer vision for autonomous detection and tracking and ensuring seamless inter-platform communication.
 - Applied a model-based least squares pose estimation method and trained a custom CNN for precise recognition of ground robots, enhancing detection and tracking even in challenging conditions.
@@ -205,9 +205,9 @@ To equip the robotic agent with emotional intelligence, we conducted comprehensi
 
 <div class='paper-box-text' markdown="1">
 
-*2017.08 - 2017.12*: &nbsp; I have done an independent project that deriving the full vectorization of a system of partial differential equations, Shallow Water Equations (SWEs), with conservative form. [\[Code\]](https://nbviewer.org/github/Derekxbj/mae-6286/blob/1e23dc1be3c44ad70cb7840ba3bb50cd041e9aba/final_project/Final.ipynb)
+*2017.08 - 2017.12*: &nbsp; I completed an independent project to derive a fully vectorized formulation of the shallow water equations (SWEs), a system of partial differential equations in conservative form. [\[Code\]](https://nbviewer.org/github/Derekxbj/mae-6286/blob/1e23dc1be3c44ad70cb7840ba3bb50cd041e9aba/final_project/Final.ipynb)
 
-- Simulated the numerical results of SWEs and analyzed the grid convergence with different numerical schemes; improved the order of convergence from 1 to 2 by utilizing a Lax-Wendroff scheme.
+- Simulated solutions to the SWEs and analyzed grid convergence using different numerical schemes; improved the order of convergence from first to second order using a Lax–Wendroff scheme.
 
 </div>
 </div>
@@ -215,7 +215,7 @@ To equip the robotic agent with emotional intelligence, we conducted comprehensi
 <!-- - [Multi-Modal Correlated Network with Emotional Reasoning Knowledge for Social Intelligence Question-Answering](https://openaccess.thecvf.com/content/ICCV2023W/ASI/html/Xie_Multi-Modal_Correlated_Network_with_Emotional_Reasoning_Knowledge_for_Social_Intelligence_ICCVW_2023_paper.html), Baijun Xie, Chung Hyuk Park, *Proceedings of the IEEE/CVF International Conference on Computer Vision* -->
 
 
-## Others
+## Other Publications
 
 - [Real-time teleoperation of magnetic force-driven microrobots with a motion model and stable haptic force feedback for micromanipulation.](https://doi.org/10.1063/10.0034396), Duygu, Yasin Cagatay, **Baijun Xie**, Xiao Zhang, Min Jun Kim, and Chung Hyuk Park, *Nanotechnology and Precision Engineering*, 2025
 
@@ -231,33 +231,33 @@ To equip the robotic agent with emotional intelligence, we conducted comprehensi
 
 # 🎖 Honors and Awards
 - *2023.01* 2022 Collins Distinguished Doctoral Fellowship at the GWU. 
-- *2022.04* 2022 GW [Technology Commercialization Innovation Competition](https://commercialization.gwu.edu/tco-innovation-competition) ([Audience’s choice posters Prize](https://technologies.research.gwu.edu/technology/46453)). 
+- *2022.04* 2022 GW [Technology Commercialization Innovation Competition](https://commercialization.gwu.edu/tco-innovation-competition) ([Audience’s Choice Poster Prize](https://technologies.research.gwu.edu/technology/46453)).
 - *2022.01* 2021 Collins Distinguished Doctoral Fellowship at the GWU. 
-- *2016.05* 2016 A Hundred Excellent Final Year Theses Prize in Shenzhen University . 
+- *2016.05* 2016 A Hundred Excellent Final Year Theses Prize at Shenzhen University.
 - *2015.09* 2015 Shenzhen University Challenge Cup University Student Venture Contest (2nd Prize). 
 - *2014.09* Laboratory Open Fund Project of Shenzhen University (3rd Prize). 
 
 
-# 📖 Educations
-- *2018.09 - 2024.01*, Doctor of Philosophy, The George Washington University, Washington DC, U.S.A.
-  - Related courses: Probability for Computer Science, Design & Analysis of Algorithm, Machine Learning, Pattern Recognition, Digital Image Processing, Robotics Vision and Perception, Biomedical Signal Analysis
-- *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington DC, U.S.A. 
-  - Related courese: Analytical Methods in Engineering,  Electromechanical Control System, Robotic Systems, Mechatronics Design, Numerical Solution Tech in MAE, Applied Nonlinear Control, Applied Optimal Control & Estimation, Spacecraft Attitude Control, System Optimization, Advanced Mechanical Engineering Design
-- *2012.09 - 2016.06*, Bachelor of Engineering, Shenzhen University, Guandong, China. 
+# 📖 Education
+- *2018.09 - 2024.01*, Doctor of Philosophy, The George Washington University, Washington, DC, U.S.A.
+  - Related courses: Probability for Computer Science, Design & Analysis of Algorithms, Machine Learning, Pattern Recognition, Digital Image Processing, Robotics Vision and Perception, Biomedical Signal Analysis
+- *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington, DC, U.S.A.
+  - Related courses: Analytical Methods in Engineering,  Electromechanical Control System, Robotic Systems, Mechatronics Design, Numerical Solution Tech in MAE, Applied Nonlinear Control, Applied Optimal Control & Estimation, Spacecraft Attitude Control, System Optimization, Advanced Mechanical Engineering Design
+- *2012.09 - 2016.06*, Bachelor of Engineering, Shenzhen University, Guangdong, China.
 
 # 💬 Invited Talks
 ## Oral
-- *2023.10*, 2023 IEEE/CVF International Conference on Computer Vision (ICCV) Workshops at Paris, France
+- *2023.10*, 2023 IEEE/CVF International Conference on Computer Vision (ICCV) Workshops in Paris, France
 - *2022.11*, 2022 BME Day in the Department of Biomedical Engineering at the GWU.  
-- *2021.11*, 2021 the Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](youtube.com/watch?v=JDMb7vyxoqM&ab_channel=ArtmedGWU)
+- *2021.11*, 2021 Artificial Intelligence for Human-Robot Interaction AAAI Fall Symposium \| [\[video\]](https://www.youtube.com/watch?v=JDMb7vyxoqM&ab_channel=ArtmedGWU)
 - *2020.04*, 2020 ACM/IEEE International Conference on Human-Robot Interaction \| [\[video\]](https://www.youtube.com/watch?v=gV5mkpEhnVk&ab_channel=ACMSIGCHI)
 
 ## Poster
 - *2023.04*, 2023 GW SEAS R&D Showcase at the GWU
-- *2023.03*, 2023 ACM/IEEE International Conference on Human-Robot Interaction at Stockholm, SE 
+- *2023.03*, 2023 ACM/IEEE International Conference on Human-Robot Interaction in Stockholm, Sweden
 - *2022.05*, 2022 GW Technology Commercialization Innovation Competition at the GWU
 - *2021.07*, 2021 18th International Conference on Ubiquitous Robots (online)
-- *2019.10*, 2019 Biomedical Engineering Society (BMES) Annual Meeting at Philadelphia
+- *2019.10*, 2019 Biomedical Engineering Society (BMES) Annual Meeting in Philadelphia
 - *2019.10*, 2019 Research and Development Showcase at the GWU
 - *2019.04*, 2019 Research Day at the GWU
 - *2018.02*, 2018 GW SEAS R&D Showcase at the GWU
