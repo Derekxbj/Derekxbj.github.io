@@ -17,20 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a research engineer at Meta Reality Labs. My mission is to research new augmented reality (AR) input devices with a focus on human-computer interaction (HCI), input sensing, machine learning, and user interfaces. I am working with a diverse and highly interdisciplinary team of researchers and engineers and will have access to cutting-edge technology, resources, and testing facilities.
+I joined Google as a software engineer in July 2026. I focus on AI modeling and quality, with work spanning context retrieval, prompt engineering, evaluation, and loss analysis.
 
-Previsouly, I am a graduate research assistant at the George Washington University. I was conferred with a Doctor of Philosophy degree by the end of the year 2023. My doctoral research is at the intersection of machine learning and human-robot interaction (HRI). From a methodological perspective, the objective of my doctoral study is to utilize machine learning algorithms together with emotional intelligence to facilitate the creation of more engaging and empathetic experiences in HRI. Throughout the duration of my doctoral research, the robotic system that I have developed has successfully attained the capability of engaging in interactive emotional communication by utilizing both verbal and non-verbal social cues. Additionally, I had the task of designing and assessing a social-emotional robot that incorporated an interactive gaming scenario. In addition, a user study was conducted on the empathetic robotic companion that has been designed specifically for autistic adolescents, along with a personalized intervention program.
+Previously, I was a research engineer at Meta Reality Labs, where I worked on augmented reality (AR) input devices with a focus on HCI, input sensing, machine learning, and user interfaces.
+
+I earned my Ph.D. from the George Washington University in January 2024. My doctoral research combined machine learning and human-robot interaction to develop empathetic social robots, including assistive systems for autistic adolescents.
 
 
 
 
 
 # 🔥 News
+- *2026.07*: &nbsp;💻 I joined Google as a software engineer!
 - *2024.04*: &nbsp;💻 💻 I am thrilled to start a new position as a research engineer at Meta Reality Labs!
 - *2023.11*: &nbsp;🎉🎉 I have pased my PhD dissertation defense!
 
 # 💻 Experience
-- *2024.04 - Present*, Research Engineer, Meta Reality Labs
+- *2026.07 - Present*, Software Engineer, Google
+- *2024.04 - 2026.05*, Research Engineer, Meta Reality Labs
 - *2020.06 - 2023.12*, Graduate Research Assistant, The George Washington University
 - *2018.09 - 2020.05*, Graduate Teaching Assistant, The George Washington University
   - SEAS 1001 Engineering Orientation 
@@ -235,7 +239,7 @@ To equip the robotic agent with emotional intelligence, we conducted comprehensi
 
 
 # 📖 Educations
-- *2018.09 - 2023.12*, Doctor of Philosophy, The George Washington University, Washington DC, U.S.A.
+- *2018.09 - 2024.01*, Doctor of Philosophy, The George Washington University, Washington DC, U.S.A.
   - Related courses: Probability for Computer Science, Design & Analysis of Algorithm, Machine Learning, Pattern Recognition, Digital Image Processing, Robotics Vision and Perception, Biomedical Signal Analysis
 - *2016.09 - 2018.05*, Master of Science, The George Washington University, Washington DC, U.S.A. 
   - Related courese: Analytical Methods in Engineering,  Electromechanical Control System, Robotic Systems, Mechatronics Design, Numerical Solution Tech in MAE, Applied Nonlinear Control, Applied Optimal Control & Estimation, Spacecraft Attitude Control, System Optimization, Advanced Mechanical Engineering Design

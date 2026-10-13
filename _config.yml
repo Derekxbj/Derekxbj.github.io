@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Baijun Xie (谢百俊)"
-description              : "Reserach Engineer at Meta Reality Labs, focusing on human-computer interaction, machine learning, and input sensing."
+description              : "Software Engineer at Google, focusing on AI modeling and quality, context retrieval, prompt engineering, evaluation, and loss analysis."
 repository               : "https://derekxbj.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Baijun Xie"
   avatar           : "images/bio_xie.jpg"
   bio              : 
-  location         : "Redmond, Washington"
-  employer         : "Meta Reality Labs"
+  location         : "San Francisco Bay Area"
+  employer         : "Google"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DoamBrIAAAAJ&hl=en"
   email            : "baijunxie.bx@gmail.com"
