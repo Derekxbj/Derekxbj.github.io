@@ -21,7 +21,7 @@ I joined Google as a software engineer in July 2026. I focus on AI modeling and 
 
 Previously, I was a research engineer at Meta Reality Labs, where I worked on augmented reality (AR) input devices with a focus on human-computer interaction (HCI), input sensing, machine learning, and user interfaces.
 
-I earned my Ph.D. from the George Washington University in January 2024. My doctoral research combined machine learning and human-robot interaction to develop empathetic social robots, including assistive systems for autistic adolescents.
+I earned my Ph.D. from the George Washington University in January 2024. My doctoral research focused on machine learning and human-robot interaction, integrating facial expressions, speech, and language to help robots recognize human emotions and respond empathetically. I developed robotic systems that combined multimodal perception with dialogue and interactive behaviors, and evaluated an assistive robotic companion for autistic adolescents. [\[Ph.D. Dissertation\]](https://www.proquest.com/openview/f62cdbf5839f7b940c75b255cd9e65cb/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 
 
